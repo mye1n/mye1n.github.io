@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.104de731.css",
-    "main.js": "/static/js/main.2e3375ad.js",
-    "static/media/hero-banner-bg.jpg": "/static/media/hero-banner-bg.9c4b6a17e1575b2f678b.jpg",
-    "static/media/earth.png": "/static/media/earth.57b5b4a92518ff8b199a.png",
-    "static/media/offer-4.jpg": "/static/media/offer-4.70fe698f681f61705806.jpg",
-    "static/media/offer-2.jpg": "/static/media/offer-2.5a14e86b8b092617e469.jpg",
-    "static/media/offer-1.jpg": "/static/media/offer-1.a70f28e305312d245275.jpg",
-    "static/media/offer-3.jpg": "/static/media/offer-3.72f61e61cfbc9c6f4d65.jpg",
-    "static/media/logo.svg": "/static/media/logo.f477468d969fbad2b2c49cb8581c7bb0.svg",
-    "static/media/cart-gradient.svg": "/static/media/cart-gradient.130703b7b0cf9871648ffbe073cd6187.svg",
-    "static/media/cart.svg": "/static/media/cart.aa5b44fe878d55747850436a0daf7a32.svg",
-    "index.html": "/index.html",
-    "main.104de731.css.map": "/static/css/main.104de731.css.map",
-    "main.2e3375ad.js.map": "/static/js/main.2e3375ad.js.map"
+    "main.css": "/test2/static/css/main.31701b30.css",
+    "main.js": "/test2/static/js/main.8ff02a9b.js",
+    "static/media/hero-banner-bg.jpg": "/test2/static/media/hero-banner-bg.9c4b6a17e1575b2f678b.jpg",
+    "static/media/earth.png": "/test2/static/media/earth.57b5b4a92518ff8b199a.png",
+    "static/media/offer-4.jpg": "/test2/static/media/offer-4.70fe698f681f61705806.jpg",
+    "static/media/offer-2.jpg": "/test2/static/media/offer-2.5a14e86b8b092617e469.jpg",
+    "static/media/offer-1.jpg": "/test2/static/media/offer-1.a70f28e305312d245275.jpg",
+    "static/media/offer-3.jpg": "/test2/static/media/offer-3.72f61e61cfbc9c6f4d65.jpg",
+    "static/media/logo.svg": "/test2/static/media/logo.e1c771b8a45e92812a8d1b015f97c8e2.svg",
+    "static/media/cart-gradient.svg": "/test2/static/media/cart-gradient.828a4306976bce163faf810606209349.svg",
+    "static/media/cart.svg": "/test2/static/media/cart.9f40b780d0bad66548e004ae46f650ea.svg",
+    "index.html": "/test2/index.html",
+    "main.31701b30.css.map": "/test2/static/css/main.31701b30.css.map",
+    "main.8ff02a9b.js.map": "/test2/static/js/main.8ff02a9b.js.map"
   },
   "entrypoints": [
-    "static/css/main.104de731.css",
-    "static/js/main.2e3375ad.js"
+    "static/css/main.31701b30.css",
+    "static/js/main.8ff02a9b.js"
   ]
 }
