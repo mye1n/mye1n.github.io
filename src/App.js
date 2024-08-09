@@ -2,7 +2,7 @@ import "./styles/App.scss";
 
 import { offers } from "./data/offers";
 
-import logo from "./assets/logo.svg";
+import logo from "./static/svg/logo.svg";
 import rocketIcon from "./static/rocket.png";
 import cartIcon from "./static/svg/cart.svg";
 import cartGradientIcon from "./static/svg/cart-gradient.svg";
@@ -21,7 +21,7 @@ function App() {
               id="menu-toggle"
               className="main-menu__toggle"
             />
-            <label for="menu-toggle" className="main-menu__burger">
+            <label htmlFor="menu-toggle" className="main-menu__burger">
               <span className=""></span>
             </label>
             <nav className="main-menu__nav">
@@ -80,7 +80,10 @@ function App() {
           <div className="section__content">
             <div className="offers-list">
               {offers.map((offer) => (
-                <article className="offers-list__item offers-item">
+                <article
+                  className="offers-list__item offers-item"
+                  key={offer.id}
+                >
                   <div className="offers-item__content">
                     <header>
                       <h3 className="offers-item__title">{offer.title}</h3>
@@ -124,10 +127,16 @@ function App() {
                 you can fully enjoy your adventure in space. We offer various
                 options for space excursions.
               </p>
-              <label for="view-more-toggle" className="text-collapser__more">
+              <label
+                htmlFor="view-more-toggle"
+                className="text-collapser__more"
+              >
                 Read more
               </label>
-              <label for="view-more-toggle" className="text-collapser__less">
+              <label
+                htmlFor="view-more-toggle"
+                className="text-collapser__less"
+              >
                 Read less
               </label>
             </div>
